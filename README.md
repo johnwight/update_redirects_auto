@@ -8,7 +8,7 @@ You can use the application management [`a/{client_id}`](https://docs.nylas.com/
 
 * Helping your customers who have customized redirect URIs according to any application they access. With this endpoint, they can bookmark multiple applications.
 
-* Whitelist multiple domains in cases where your customers use their own, separate domains to access your solution
+* Whitelisting multiple domains in cases where your customers use their own, separate domains to access your solution
 
 Additionally, this endpoint provides help with application information, including:
 
@@ -68,7 +68,7 @@ In the above example:
 
 * Responses are UTF-8 encoded JSON objects, unless otherwise noted.
 
-* The format of the sync status codes with Nylas APIs is slightly different than the information displayed on the Nylas dashboard. See [API Sync Statuses](https://docs.nylas.com/docs/sync-statuses) for more information on using APIs for determining sync statuses.
+* The format of the sync status codes with Nylas APIs is slightly different than the information displayed on the Nylas dashboard. See [API Sync Statuses](https://docs.nylas.com/docs/sync-statuses) for more information on using APIs to determine sync statuses.
 
 
 ## Additional Information
